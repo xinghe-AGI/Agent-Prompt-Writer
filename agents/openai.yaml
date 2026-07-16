@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Prompt Writer"
+  short_description: "把粗略需求整理成简洁、稳定、可复用的结构化 prompt。"
+  default_prompt: "使用 $ai-prompt-writer，帮我把这个需求整理成一段结构清晰、可直接复制的 prompt。"
